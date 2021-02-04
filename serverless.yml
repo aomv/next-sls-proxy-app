@@ -1,0 +1,2 @@
+next-sls-proxy-app:
+  component: "@sls-next/serverless-component@1.19.0-alpha.30"
